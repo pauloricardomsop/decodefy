@@ -1,0 +1,10 @@
+{
+  "name": "decodefy",
+  "version": "1.0.0",
+  "description": "A package for decoding and processing data",
+  "license": "MIT",
+  "dependencies": {
+    "dependency1": "^1.0.0",
+    "dependency2": "^2.0.0"
+  }
+}
